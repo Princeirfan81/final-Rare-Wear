@@ -1,0 +1,121 @@
+{
+  "settings": {
+    "brand": "RARE WEAR",
+    "subbrand": "T-SHIRT PRINTING",
+    "tagline": "Custom gifts made just for you!",
+    "phone": "6362619930",
+    "instagram": "_rare__wear_official",
+    "address": "Parvathi Nagar, Medahalli, Bangalore 560049",
+    "heroTitle": "RARE CUSTOM GIFTS",
+    "heroText": "Premium quality \u2022 Vibrant prints \u2022 Made with care",
+    "footerText": "Thank you for supporting small business!",
+    "adminPassword": "rare123"
+  },
+  "banner": "assets/banner.png",
+  "products": [
+    {
+      "id": "p1",
+      "name": "Custom T-Shirt Printing",
+      "category": "T-Shirts",
+      "price": "",
+      "description": "Personalized T-shirts with your photo, name, text or design.",
+      "image": "assets/tshirt.png"
+    },
+    {
+      "id": "p2",
+      "name": "White Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "Classic white mug with your custom print.",
+      "image": "assets/white-mug.png"
+    },
+    {
+      "id": "p3",
+      "name": "Black Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "Premium black mug for custom photo and text printing.",
+      "image": "assets/black-mug.png"
+    },
+    {
+      "id": "p4",
+      "name": "Magic Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "Heat-reveal magic mug with a custom design.",
+      "image": "assets/magic-mug.png"
+    },
+    {
+      "id": "p5",
+      "name": "Blue Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "White mug with blue handle and custom printing.",
+      "image": "assets/blue-mug.png"
+    },
+    {
+      "id": "p6",
+      "name": "Black Handle Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "White mug with black handle and custom printing.",
+      "image": "assets/black-handle-mug.png"
+    },
+    {
+      "id": "p7",
+      "name": "Heart Handle Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "Heart-handle mug for special gifts and occasions.",
+      "image": "assets/heart-handle-mug.png"
+    },
+    {
+      "id": "p8",
+      "name": "White Heart Mug",
+      "category": "Mugs",
+      "price": "",
+      "description": "White heart-handle mug with your custom design.",
+      "image": "assets/white-heart-mug.png"
+    },
+    {
+      "id": "p9",
+      "name": "Water Bottle",
+      "category": "Bottles",
+      "price": "",
+      "description": "Custom printed bottle for personal use or gifting.",
+      "image": "assets/water-bottle.png"
+    },
+    {
+      "id": "p10",
+      "name": "Marble Tile",
+      "category": "Tiles",
+      "price": "",
+      "description": "Decorative custom printed marble-look tile.",
+      "image": "assets/marble-tile.png"
+    },
+    {
+      "id": "p11",
+      "name": "Photo Tile",
+      "category": "Tiles",
+      "price": "",
+      "description": "Turn your favorite photo into a beautiful display tile.",
+      "image": "assets/photo-tile.png"
+    },
+    {
+      "id": "p12",
+      "name": "Custom Caps",
+      "category": "Caps",
+      "price": "",
+      "description": "Custom cap printing for teams, events and personal style.",
+      "image": "assets/caps.png"
+    },
+    {
+      "id": "p13",
+      "name": "Custom Plates & More",
+      "category": "Other",
+      "price": "",
+      "description": "Ask us about custom plates and other personalized gifts.",
+      "image": "assets/plates.png"
+    }
+  ]
+}
